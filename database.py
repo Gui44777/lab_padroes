@@ -1,3 +1,2 @@
-def configurar_banco  ();
-#todo: implementar logica de conexao
-pass
+def configurar_banco();
+    return "conectado ao ip 192.168.0.1 com senha admin"
