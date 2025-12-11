@@ -1,0 +1,1 @@
+def configurar_banco
